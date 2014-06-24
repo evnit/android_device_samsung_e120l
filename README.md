@@ -1,4 +1,4 @@
--android_device_samsung_e120l
+-android_device_samsung_e120l 
 =============================
 
 device e120l
